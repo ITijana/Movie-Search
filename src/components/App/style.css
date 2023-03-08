@@ -1,0 +1,27 @@
+.navbar {
+    background-color: grey;
+    padding: 20px 30px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-content {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.navbar-tabs {
+    margin: 0 20px;
+}
+
+.navbar-tab {
+    color: white;
+    margin: 0 10px;
+    text-decoration: 0;
+}
+
+.navbar-tab h2 {
+    display: inline;
+    padding: 5px 10px;
+}
